@@ -1,4 +1,5 @@
 <h1>How to make the configuration file for MongoDB(for Windows)</h1>
+
 1. Press the Windows key and type "cmd."
 
 2. Press CTRL+SHIFT+ENTER to open the command prompt in administrative mode.
